@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-typescript-starter-pack"]=this["webpackJsonpreact-typescript-starter-pack"]||[]).push([[0],{11:function(t,e,c){"use strict";c.r(e);var r=c(0),n=c.n(r),s=c(3),a=c.n(s),i=(c(8),c(9),c(1)),p=function(){return Object(i.jsx)("div",{className:"starter",children:"test"})};a.a.render(Object(i.jsx)(n.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))},8:function(t,e,c){},9:function(t,e,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.5233a644.chunk.js.map
