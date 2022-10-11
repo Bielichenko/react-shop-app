@@ -1,0 +1,20 @@
+.navigation {
+  width: 130px;
+  
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+
+  &__category {
+    margin-bottom: 10px;
+  }
+
+  &__categoryTitle {
+    color: #333333;
+
+    &--active {
+      color: #c40b0b;
+      font-style: bold;
+    }
+  }
+}

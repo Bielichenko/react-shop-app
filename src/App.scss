@@ -1,3 +1,16 @@
-.starter {
-  font-size: 18px;
+@import './components/catalog/Catalog.scss';
+@import './components/header/header.scss';
+@import './components/footer/footer.scss';
+@import './components/mainSection/MainSection.scss';
+@import './components/productsList/ProductsList.scss';
+@import './components/productCard/ProductCard.scss';
+@import './components/navigation/Navigation.scss';
+
+.App {
+
+  color: #333333;
+  background-color: #F5F5F5;
+
+  font-family: 'Source Sans Pro';
+  font-style: normal;
 }

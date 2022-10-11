@@ -1,0 +1,12 @@
+.mainSection {
+  padding: 0 63px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+
+  &__navigation {
+    margin-right: 106px;
+  }
+}
+

@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+
+  height: 145px;
+
+  padding: 73px 63px;
+
+  background-color:  #000000;
+
+  &__title {
+    font-family: 'Romanesco';
+    
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 62px;
+
+    color: #FFFFFF;
+  }
+}
